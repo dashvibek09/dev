@@ -1,1 +1,3 @@
 Maven is a project  management tool. It has 3 folder and 2 life cycle.
+it has source folder,test folder and main folder
+It has default lfe cycle and clean life cycle.
