@@ -1,0 +1,1 @@
+Maven is a project  management tool. It has 3 folder and 2 life cycle.
